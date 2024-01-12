@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Protyay Dey</h1>
 - 🔭 I’m currently Live on Earth
 
-- 🌱 I’m currently learning **React, NextJS, Tailwindcss, Django **
+- 🌱 I’m currently learning **React, NextJS, Tailwindcss, Django**
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Image Processing, Web Development**
 
