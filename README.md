@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Protyay Dey</h1>
-- 🔭 I’m currently working on [Connect 4 Game](https://github.com/protyayofficial/connect4game/)
+- 🔭 I’m currently Live on Earth
 
-- 🌱 I’m currently learning **React, Vite, Tailwindcss, Flask, GoLang**
+- 🌱 I’m currently learning **React, NextJS, Tailwindcss, Django **
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Image Processing**
+- 💬 Ask me about **Machine Learning, Deep Learning, Image Processing, Web Development**
 
 - 📫 How to reach me **protyayofficial@gmail.com**
 
