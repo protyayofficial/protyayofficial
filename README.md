@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Protyay Dey</h1>
 
-- 🔭 I currently live on Earth
+- 🔭 Unveiling the Universe, One Research Paper at a Time.
 
-- 🌱 I’m currently learning **React, NextJS, Tailwindcss, Django**
+- 🌱 I’m currently learning **React, NextJS, Tailwindcss, Continual Learning, Digital Image Forensics**
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Image Processing, Web Development**
 
 - 📫 How to reach me **protyayofficial@gmail.com**
 
-- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1vsg2BkYTpTW6PenOtCMp2X8gLj92ICuJ/view?usp=sharing)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1kI5sJNdEfslpXVNLVTGA9Qz3Mept1C3V/view?usp=sharing)
+
+- </> My coding experience [Leetcode](https://www.leetcode.com/ace_offie)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
