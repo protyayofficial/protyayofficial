@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **protyay.iitrpr@gmail.com**
 
-- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1kI5sJNdEfslpXVNLVTGA9Qz3Mept1C3V/view?usp=sharing)
+- 📄 Know about my experiences [Click Here](https://protyayofficial.github.io/files/Resume.pdf)
 
 - </> My coding experience [Leetcode](https://www.leetcode.com/ace_offie)
 
