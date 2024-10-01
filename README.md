@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Protyay Dey</h1>
+<h1 align="center">Hi 👋, I'm Protyay</h1>
 
 - 🔭 Unveiling the Universe, One Research Paper at a Time.
 
