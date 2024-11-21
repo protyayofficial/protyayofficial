@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Image Processing, Web Development**
 
-- 📫 How to reach me **protyay.iitrpr@gmail.com**
+- 📫 How to reach me **protyayofficial@gmail.com**
 
 - 📄 Know about my experiences [Click Here](https://protyayofficial.github.io/files/Resume.pdf)
 
